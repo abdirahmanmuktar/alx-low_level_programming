@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - A size is not grandeur
  *
