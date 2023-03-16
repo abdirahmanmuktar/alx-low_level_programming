@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main -A programme with proper grammer
- *
  * Return: 0(success)
  */
 int main(void)
