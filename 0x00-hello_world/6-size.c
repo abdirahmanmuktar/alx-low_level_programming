@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A size is not grandeur
+ * main - A size is not grandeur and territory does not make a nation
  *
  * Return: 0 (Success)
  */
@@ -11,7 +11,6 @@ int main(void)
 	long int c;
 	long long int d;
 	float f;
-
 printf("size of a char: %lu byte(s)\n", (unsigned long)sizeof(a));
 printf("size of an int: %lu byte(s)\n", (unsigned long)sizeof(b));
 printf("size of a long int: %lu byte(s)\n", (unsigned long)sizeof(c));
