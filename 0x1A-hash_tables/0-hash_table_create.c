@@ -1,4 +1,5 @@
-nclude "hash_tables.h"
+#!/usr/bin/env perl
+#include "hash_tables.h"
 
 /**
  * hash_table_create - Creates a hash table.
